@@ -1,0 +1,27 @@
+.testhead {
+  text-align: center;
+}
+.whathead {
+  text-align: center;
+  font-weight: bold;
+}
+.columns {
+  height: 400px;
+  width: 400px;
+}
+.quote {
+  font-size: 60px;
+}
+.para {
+  margin: 0 25px;
+}
+.photo {
+  width: 15%;
+  border-radius: 100%;
+}
+.side {
+  display: flex;
+}
+.side h4 {
+  margin-top: 35px;
+}
